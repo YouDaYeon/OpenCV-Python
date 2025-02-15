@@ -3,10 +3,7 @@
 
 ## 1️⃣ PART01. 영상처리 개요 및 파이썬 OpenCV 소개
 
-### CHAPTER 01. 영상처리 개요
-
-### CHAPTER 02. OpenCV와 파이썬
-
-### CHAPTER 03. 파이썬 둘러보기
+...생략...
 
 
+## 2️⃣ PART02. OpenCV 인터페이스 기초 / 사용자 인터페이스 및 I/O 처리
